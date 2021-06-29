@@ -1,0 +1,18 @@
+{
+  "owner": {
+    "id": "",
+    "name": "",
+    "token": "",
+    "pfpURL": ""
+  },
+  "status": {
+    "symbol": "",
+    "precision": 2
+  },
+  "symbols": {
+
+  },
+  "whitelist": [
+    ""
+  ]
+}
