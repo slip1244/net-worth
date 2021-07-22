@@ -6,16 +6,16 @@ Track net worth of cryptocurrency holdings through a discord bot, and show a liv
 2. run
 
 ## commands
-* !nw
+* `!nw`
   * displays your net worth and holdings
-* !cs <coin> *<precision>*
+* `!cs <coin> <?precision>`
   * sets your status to a live ticker of a selected coin/token with a configurable precision
   * leave precision blank to use preset precision
-* !us <coin> < = / + > <value>
+* `!us <coin> < = / + > <value>`
   * updates your holdings of a coin/token
   * use = to set it to a value, or use + to add it (add a negative number to subtract)
   * = to 0 removes the holding
-* !uw < + / - > <user id>
+* `!uw < + / - > <user id>`
   * add or remove a user from your net worth whitelist (controls whether they can pull up your !nw or not)
   * + to add to whitelist, - to remove
   
